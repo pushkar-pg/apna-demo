@@ -1,2 +1,3 @@
 # apna-demo
-this is my first  time at fithud
+this is my first  time at githud
+author pushka gupta
